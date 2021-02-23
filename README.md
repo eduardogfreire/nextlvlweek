@@ -25,6 +25,11 @@ usar o comando $mix ecto.setup
 
 [x] - criar primeira rota em /rocketpay_we/router.exs
 
+[x] - criar migrations tabela do banco de dados $mix ecto.gen.migration create_user_table
+
+[x] - comandos $mix ecto.drop (para dropar tabela), $mix ecto.create(para criar a tabela) e $mix ecto.migrate (para fazer  a migrate)
+
+[x] - criar rota /users
 
 
 To start your Phoenix server:
