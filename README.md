@@ -33,6 +33,8 @@ usar o comando $mix ecto.setup
 
 [x] - Ecto.Multi 
 
+[X] - criar depósito
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
