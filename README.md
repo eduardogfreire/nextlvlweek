@@ -31,6 +31,7 @@ usar o comando $mix ecto.setup
 
 [x] - criar rota /users
 
+[x] - Ecto.Multi 
 
 To start your Phoenix server:
 
