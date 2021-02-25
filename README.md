@@ -35,6 +35,10 @@ usar o comando $mix ecto.setup
 
 [X] - criar depósito
 
+[x] - criar saque
+
+[x] - criar transferência
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
